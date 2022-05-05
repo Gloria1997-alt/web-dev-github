@@ -2,4 +2,4 @@ just some text to dive deeper here.
 
 some more text.
 
-Changes t be staged!
+Changes to be staged!
